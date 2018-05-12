@@ -1,0 +1,33 @@
+_repo: Italy-the-Magic-Land_29658
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29658-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Whiting, Lilian
+    alias: Whiting, Emily Lillian
+    birthdate: 1847
+    deathdate: 1942
+    gutenberg_agent_id: '26052'
+    url: http://www.gutenberg.org/2009/agents/26052
+    wikipedia: http://en.wikipedia.org/wiki/Lilian_Whiting
+description: ''
+gutenberg_issued: '2009-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29658'
+  lccn: '07037741'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Description and travel'
+- !lcc 'DG'
+- !lcsh 'Art -- Italy'
+tableOfContents: The period of modern art in Rome -- Social life in the Eternal city
+  -- Day-dreams in Naples, Amalfi, and Capri -- A Page de Conti from Ischia -- Voices
+  of St. Francis of Assisi -- The glory of a Venetian June -- The Magic land.
+title: Italy, the Magic Land
+url: http://www.gutenberg.org/ebooks/29658
